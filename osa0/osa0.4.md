@@ -1,6 +1,8 @@
 ## Osa 0.4
 
-'''
+![osa0.4](/osa0.4 - Kaavio.png)
+
+```
 title Osa0.4
 note right of selain:
 Käyttäjä kirjoittaa viestin laatikkoon ja painaa 'Save'-nappia
@@ -25,4 +27,4 @@ note over selain:
 selain suorittaa tapahtumankäsittelijän
 joka renderöi muistiinpanot näytölle
 end note
-'''
+```
