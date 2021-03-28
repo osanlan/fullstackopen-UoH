@@ -1,6 +1,6 @@
 ## Osa 0.4
 
-![osa0.4](/osa0.4 - Kaavio.png)
+![osa04](Osa0.4 - Kaavio.png)
 
 ```
 title Osa0.4
